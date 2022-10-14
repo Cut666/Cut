@@ -68,4 +68,4 @@
 -- where product_name ='Tiêu bắc'
 
 -- delete from homework2.hoa_don
--- where contry ='INDIA' or price between 900 and 1200
+-- where contry ='INDIA' and price between 900 and 1200 
